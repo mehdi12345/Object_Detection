@@ -32,5 +32,5 @@ def enregistrement_image():
         except Exception as e:
             print(str(e))
 
-
 enregistrement_image()
+
